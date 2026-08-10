@@ -1,2 +1,2 @@
 # Personal-PitFall-Log
-一共过往问题解决经验总结仓库
+个人经验迭代日志
